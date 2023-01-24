@@ -22,5 +22,5 @@ jobs:
       uses: kitabisa/sonarqube-action@v1.2.0
       with:
         host: http://ip10-0-190-4-cf7qtobkgm20151k25rg-9000.direct.lab-boris.fr
-        login: b5b69a03a8c3e0957ad6c4676ed9ed0783e77c6a
+        login: a4b739fb583c6caed9338d2371727d6e231ee0a1
         projectKey: "Test"
